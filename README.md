@@ -28,7 +28,7 @@ This hybrid approach combines web scraping, NLP sentiment analysis, and free GIS
 ## 📂 Project Structure
 
 ```
-scent-of-tunisia/
+Sentiment-Analysis-A-Sensory-Map/
 ├── data/              # Scraped CSVs (tweets, posts)
 ├── notebooks/         # Colab notebooks: scrape.ipynb, analyze.ipynb, map.ipynb
 ├── src/
