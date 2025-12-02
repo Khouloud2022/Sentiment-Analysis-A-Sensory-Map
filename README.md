@@ -1,8 +1,7 @@
-// ...existing code...
 # The Scent of Tunisia — A Sensory City Map
 
 
-## TL;DR
+## Summay
 This repository implements an end-to-end pipeline to collect geotagged social-media posts, extract olfactory mentions, run language-aware sentiment analysis, and produce GIS-ready outputs for visualization. Key artifacts and entry points are listed below.
 
 ## Architecture (high level)
