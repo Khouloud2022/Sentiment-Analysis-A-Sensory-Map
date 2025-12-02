@@ -11,10 +11,7 @@ venv/
 .pytest_cache/
 
 # Data files
-data/raw/*
-data/processed/*
-*.csv
-*.json
+
 
 # Secrets and environment files
 .env
