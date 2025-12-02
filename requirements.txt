@@ -1,0 +1,7 @@
+﻿tweepy==4.14.0           # Twitter/X API scraping
+instaloader==4.10.1      # Instagram scraping
+beautifulsoup4==4.12.2   # TripAdvisor HTML parsing
+requests==2.31.0         # HTTP requests for scraping
+pandas==2.0.3            # Data manipulation (CSVs)
+textblob==0.17.1         # Sentiment analysis (English/French)
+lxml==4.9.3              # Faster HTML parsing for BeautifulSoups

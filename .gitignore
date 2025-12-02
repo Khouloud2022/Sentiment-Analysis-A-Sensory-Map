@@ -1,0 +1,39 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Data files
+data/raw/*
+data/processed/*
+*.csv
+*.json
+
+# Secrets and environment files
+.env
+*.env
+secrets/
+*.key
+*.token
+
+# Jupyter/Colab notebooks (optional)
+# notebooks/*.ipynb
+
+# Large outputs
+maps/*
+*.html
+*.png
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
